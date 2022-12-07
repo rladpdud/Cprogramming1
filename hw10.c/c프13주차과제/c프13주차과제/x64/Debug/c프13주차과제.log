@@ -1,0 +1,3 @@
+﻿  c프13주차과제.cpp
+C:\Users\82103\source\repos\c프13주차과제\c프13주차과제\c프13주차과제.cpp(17,9): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int'입니다.
+  c프13주차과제.vcxproj -> C:\Users\82103\source\repos\c프13주차과제\x64\Debug\c프13주차과제.exe
